@@ -16,15 +16,15 @@ I'm a graduate student at the University of Louisiana at Lafayette, pursuing a m
 
 **Skills** :
 
-Python for Data Science and Machine Learning
-Power BI, Tableu and Ibm Cognos for Data Visualization
-Knime, Excel and JMP pro for Data Analysis
-HTML, CSS and Javascript for Web development
-SQL and Databases
-R Programming
-Microsoft Packages
-Cyber Security and IT Risk Management
-
+- Python for Data Science and Machine Learning
+- Power BI, Tableu and Ibm Cognos for Data Visualization
+- Knime, Excel and JMP pro for Data Analysis
+- HTML, CSS and Javascript for Web development
+- SQL and Databases
+- R Programming
+- Microsoft Packages
+- Cyber Security and IT Risk Management
+- - - 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=raystanlee&show_icons=true&include_all_commits=true&hide_border=true" alt="Raymond's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raystanlee&langs_count=8&layout=compact&hide_border=true" alt="Raymond's GitHub stats" /> |
 | ------------- | ------------- |
