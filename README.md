@@ -11,7 +11,7 @@ I'm a graduate student at the University of Louisiana at Lafayette, pursuing a m
 - 🌱 I’m currently learning JavaScript, Reactjs, Python and R.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Data Science, or Data Analyst (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoiloegbunamraymond@gmail.com
+- 📫 You can [view my resume](#) and contact me by emailing mailto:iloegbunamraymond@gmail.com
 ---
 
 **Skills** :
