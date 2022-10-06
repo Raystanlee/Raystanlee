@@ -8,9 +8,9 @@ I'm a graduate student at the University of Louisiana at Lafayette, pursuing a m
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Python and R.
+- 🌱 I’m currently learning JavaScript, Reactjs, node.js
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Data Science, or Data Analyst (Intern or Junior level).
+- 💼 Job interests: Data Science, or Data Analyst (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing @mailto:iloegbunamraymond@gmail.com
 ---
 
