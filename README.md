@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raystanley-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-iloegbunam-09656612a/)](https://www.linkedin.com/in/raymond-iloegbunam-09656612a/) [![Twitter Badge](https://img.shields.io/badge/-@ray_stanlee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Ray_stanlee)](https://twitter.com/Ray_stanlee)
 
-I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in infromatics with a major concentration in Data Science and Risk Management. I am currently enrolled in Alt School Africa for a Diploma in Cloud Computing Program. My goal is to understand how Data Science can help facilitate the growth and adoption of Web3. I'm passionate about sharing knowledge, learning and documentation.
+I'm a graduate student at the University of Louisiana at Lafayette, pursuing a masters degree in infromatics with a major concentration in Data Science and Analytics. I am currently enrolled in Alt School Africa for a Diploma in Cloud Computing Program. My goal is to understand how Data Science can help improve human and computer interaction. I'm passionate about sharing knowledge, learning and documentation.
 
 **Here's a quick summary about me**:
 
