@@ -11,7 +11,7 @@ I'm a graduate student at the University of Louisiana at Lafayette, pursuing a m
 - 🌱 I’m currently learning JavaScript, Microsoft Azure, Risk Management.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Science, or Data Analyst (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing @mailto:iloegbunamraymond@gmail.com
+- 📫 You can [view my resume](https://drive.google.com/file/d/1B6PWQF0hlNgyOR6gaCZLfcftyCRv6VbQ/view?usp=sharing) and contact me by emailing [iloegbunamraymond@gmail.com](mailto:iloegbunamraymond@gmail.com)
 ---
 
 **Skills** :
